@@ -16,5 +16,3 @@ The **Student Q&A System** is a Java-based application that allows students to p
 - **H2 Database** – Lightweight embedded database for storing user and question data.
 - **Maven** – Project build and dependency management.
 - **GitHub** – Version control and collaboration.
-
-## Project Structure
